@@ -1,9 +1,9 @@
 ---
 layout: default
-title: BlueROV2 Assembly
-permalink: /brov2/assembly/
+title: Bleeper Pro Assembly
+permalink: /bpro/assembly/
 order: 1
-topnavbar: brov2
+topnavbar: bpro
 nav:
 - Archived Instructions: archived-assembly-instructions
 - Introduction: assembly-intro
@@ -47,15 +47,9 @@ manual-links:
 
 <img src="/brov2/cad/BlueROV2-Black-Sands-1.png" class="img-responsive img-center" style="max-width:800px" />
 
-# Archived Assembly Instructions
-
-These are the most recent assembly instructions. Depending on the age of your kit, you may wish to refer to an older version:
-
-- [Assembly Instructions for Kits Shipped Prior to March 2017](/brov2/assembly-pre201703/)
-
 # Assembly Intro
 
-The BlueROV2 kit comes almost ready to dive. The assembly can be completed with basic hand tools; no soldering or potting is required. We have included a couple of the tools to make assembly and regular use as easy as possible.
+The Bleeper Pro is a design draft, so assembly is quite cumbersome sometimes. This guide tries to help you along the assembly. 
 
 ## Safety 
 
@@ -65,13 +59,16 @@ The BlueROV2 kit comes almost ready to dive. The assembly can be completed with 
 
 <i class="fa fa-exclamation-triangle fa-fw fa-2x text-warning"></i> Only apply threadlocker to screws contacting metal or the HDPE frame. Most threadlockers are not chemically compatible with with polycarbonate, and will damage the thrusters, fairings, and dome flange if used here. Refer to the documentation and chemical compatibility notes of your threadlocker of choice for more information.
 
-# Required Tools (Not Included)
+# Required Tools
 
 - \#2 Phillips head screwdriver 
+- 2 mm flat head screw driver
+- 3 mm flat head screw driver 
+- 
 - Wire cutters or scissors (for cutting zip ties)
 - Medium-strength (blue) threadlocker such as [Loctite 243](https://www.amazon.com/Loctite-1330799-Resistant-thread-locker-6-milliliter/dp/B004L439FE/ref=sr_1_1?ie=UTF8&qid=1466440165&sr=8-1&keywords=loctite+243+thread-locker)
 - Isopropyl alcohol or isopropyl alcohol wipes
-- 2 mm flat head screw driver
+
 
 # Assembling the Frame
 
