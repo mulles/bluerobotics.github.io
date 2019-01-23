@@ -59,6 +59,8 @@ The Bleeper Pro is a design draft, so assembly is quite cumbersome sometimes. Th
 
 <i class="fa fa-exclamation-triangle fa-fw fa-2x text-warning"></i> Only apply threadlocker to screws contacting metal or the HDPE frame. Most threadlockers are not chemically compatible with with polycarbonate, and will damage the thrusters, fairings, and dome flange if used here. Refer to the documentation and chemical compatibility notes of your threadlocker of choice for more information.
 
+<i class="fa fa-exclamation-triangle fa-fw fa-2x text-warning"></i> Do not put to much force on the inox screws. As the hull is out of aluminium, thus it can be easily damaged. 
+
 # Required Tools
 
 - \#2 Phillips head screwdriver 
