@@ -61,6 +61,8 @@ The Bleeper Pro is a design draft, so assembly is quite cumbersome sometimes. Th
 
 <i class="fa fa-exclamation-triangle fa-fw fa-2x text-warning"></i> Do not put to much force on the inox screws. As the hull is out of aluminium, thus it can be easily damaged. 
 
+<i class="fa fa-exclamation-triangle fa-fw fa-2x text-warning"></i> Never unconnect Tether cable gland without following the steps of this documentation, otherwise you will damage the electrical connections. 
+
 # Required Tools
 
 - \#2 Phillips head screwdriver 
